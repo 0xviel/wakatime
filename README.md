@@ -1,5 +1,4 @@
-test aja sih
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 Go   15 mins         █████████████████████████   100.00 %
